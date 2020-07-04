@@ -64,3 +64,4 @@ Tags: RandomForest, MLP, Lightgbm, Xgb, SVC, PCA (truncatedSVD), NMF, RobustScal
 [TutorialsPoint: Python text processing](https://www.tutorialspoint.com/python_text_processing/python_spelling_check.htm)
 
 [Pytorch Text examples](https://github.com/JonathanLoscalzo/pytorch-sentiment-analysis)
+[Pytorch Architecture examples](https://github.com/JonathanLoscalzo/Text-Classification-Models-Pytorch)
